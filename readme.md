@@ -2,6 +2,8 @@
 
 > A Laravel 5.6 project with
 
+![](https://github.com/Nikitagizatulin/simple-parser/blob/master/readme_image.png)
+
 ## Build Setup
 
 ``` bash
@@ -25,4 +27,5 @@ php artisan serve
 
 ```
 ## Functionality:
-* some text
+* Service accepts a URl address from youtube, rutube or vimeo site, parsed and stored this video in database.
+* Display all list of parsed video and it is possible to look at it is direct on the website
